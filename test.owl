@@ -18,13 +18,13 @@
         <Class IRI="#Adult"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Children"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#people"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Grain"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Childr"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Fruit"/>
@@ -34,7 +34,7 @@
         <Class IRI="#people"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Childr"/>
+        <Class IRI="#Children"/>
         <Class IRI="#people"/>
     </SubClassOf>
     <SubClassOf>
